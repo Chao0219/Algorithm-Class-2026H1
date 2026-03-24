@@ -1,0 +1,19 @@
+class Solution:
+    def specialGrid(self, n: int) -> List[List[int]]:
+        # 若規模為 n 先填入n-1規模的矩陣 再依據順序填寫右下左下左上->換言之 我可以從n=1開始填 依序填出n =2 n=3...直到n=n        
+        # 在n = 2 時，右下四個subarray 為右上sub-array 的元素+4 左下sub-array 加4*2 左上sub-array加4*3
+
+        if n == 0 : return [[0]]
+        if n == 1 : return[[3, 0], [2, 1]]
+        res = self.specialGrid(1) 
+        for i in range(2, n + 1):     
+            scale = len(res) * len(res)
+            grid = []
+            for row in res:
+                grid.append([x + 3 * scale for x in row] + [x for x in row])
+            for row in res:
+                grid.append([x + 2 * scale for x in row] + [x +scale for x in row])
+            res = grid
+        return res
+
+        # 把 for loop 寫在敘述中 : 列表推導式 (List Comprehension)。它能讓你把原本需要 3-4 行的 for 迴圈壓縮成一行
