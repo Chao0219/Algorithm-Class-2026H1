@@ -8,4 +8,5 @@
 
 ## 3165. Maximum Sum of Subsequence With Non-adjacent Elements (Hard)
 
-努力中 敬請期待
+<img width="720" height="480" alt="image" src="https://github.com/user-attachments/assets/91a531f9-f2d8-46b5-9a49-201e17a5e060" />
+
