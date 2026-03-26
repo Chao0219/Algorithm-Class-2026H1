@@ -10,6 +10,7 @@
 
 ## 3165. Maximum Sum of Subsequence With Non-adjacent Elements (Hard)
 
-<img width="720" height="480908" alt="image" src="https://github.com/user-attachments/assets/dc200f16-ddb0-4e47-a732-f334b66b5662" />
+<img width="720" height="480" alt="image" src="https://github.com/user-attachments/assets/70550db6-4fba-4ce7-ad99-e2d794455912" />
+
 
 
