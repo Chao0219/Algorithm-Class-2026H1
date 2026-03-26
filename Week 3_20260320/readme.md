@@ -1,6 +1,7 @@
 ## 3537. Fill a Special Grid (Medium）
 
-<img width="720" height="480" alt="Image" src="https://github.com/user-attachments/assets/bcf43a8b-7272-4712-82dd-01cdf4483189" />
+<img width="720" height="480" alt="image" src="https://github.com/user-attachments/assets/24ac2857-286e-4864-ac67-3a29c61e01d9" />
+
 
 ## 3721. Longest Balanced Subarray II (Hard)
 
@@ -9,5 +10,6 @@
 
 ## 3165. Maximum Sum of Subsequence With Non-adjacent Elements (Hard)
 
-<img width="720" height="480" alt="image" src="https://github.com/user-attachments/assets/91a531f9-f2d8-46b5-9a49-201e17a5e060" />
+<img width="720" height="480908" alt="image" src="https://github.com/user-attachments/assets/dc200f16-ddb0-4e47-a732-f334b66b5662" />
+
 
