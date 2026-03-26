@@ -5,12 +5,14 @@
 
 ## 3721. Longest Balanced Subarray II (Hard)
 
-<img width="720" height="640" alt="image" src="https://github.com/user-attachments/assets/44fb73b0-7332-4b26-bb4d-66fe0830aa39" />
+<img width="720" height="480" alt="image" src="https://github.com/user-attachments/assets/7190e632-d0ba-4316-a7fc-f0df98d8136a" />
+
 
 
 ## 3165. Maximum Sum of Subsequence With Non-adjacent Elements (Hard)
 
-<img width="720" height="480" alt="image" src="https://github.com/user-attachments/assets/70550db6-4fba-4ce7-ad99-e2d794455912" />
+<img width="720" height="480" alt="image" src="https://github.com/user-attachments/assets/d9979147-4366-4aa9-9201-d45ae4f588d9" />
+
 
 
 
