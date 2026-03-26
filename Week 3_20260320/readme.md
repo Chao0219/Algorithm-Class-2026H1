@@ -4,7 +4,7 @@
 
 ## 3721. Longest Balanced Subarray II (Hard)
 
-<img width="1916" height="903" alt="image" src="https://github.com/user-attachments/assets/44fb73b0-7332-4b26-bb4d-66fe0830aa39" />
+<img width="720" height="640" alt="image" src="https://github.com/user-attachments/assets/44fb73b0-7332-4b26-bb4d-66fe0830aa39" />
 
 
 ## 3165. Maximum Sum of Subsequence With Non-adjacent Elements (Hard)
