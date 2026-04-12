@@ -6,7 +6,8 @@
 
 ## 218. The Skyline Problem (Hard)
 
-<img width="720" height="480" alt="image" src="" />
+<img width="720" height="480" alt="image" src="https://github.com/user-attachments/assets/3af61169-5a89-4d0c-8971-3fd782563d91" />
+
 
 
 
