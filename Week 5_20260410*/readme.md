@@ -9,7 +9,10 @@
 
 ## 995. Minimum Number of K Consecutive Bit Flips (Hard)
 
-<img width="720" height="480" alt="image" src="" />
+<img width="720"  alt="image" src="https://github.com/user-attachments/assets/0e63a34c-9045-42e2-b7ea-be479865361a" />
+
+<img width="720"  alt="image" src="https://github.com/user-attachments/assets/e5e769ee-19d0-40a9-b4bf-c48c30be7074" />
+
 
 
 
