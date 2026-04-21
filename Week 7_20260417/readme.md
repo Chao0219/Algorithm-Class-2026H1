@@ -17,5 +17,7 @@
 
 
 ## 135. Candy (Hard)
+<img width="720"  alt="image" src="https://github.com/user-attachments/assets/cbd018e0-d013-420f-b9b9-f50d42c673c3" />
 
-<img width="720" height="480" alt="image" src="9" />
+<img width="720"  alt="image" src="https://github.com/user-attachments/assets/257e93c6-9e5a-4be4-a8e0-35066df1c493" />
+
