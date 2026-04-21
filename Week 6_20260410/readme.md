@@ -15,5 +15,7 @@
 
 
 ## 710. Random Pick with Blacklist (Hard)
+<img width="720"  alt="image" src="https://github.com/user-attachments/assets/db0a38b7-ff65-4d92-b42e-24a352b161be" />
 
-<img width="720" height="480" alt="image" src="9" />
+<img width="720"  alt="image" src="https://github.com/user-attachments/assets/0400a30e-ffc7-49cd-89c9-38983bacb2f0" />
+
