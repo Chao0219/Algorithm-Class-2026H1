@@ -9,7 +9,10 @@
 
 ## 1383. Maximum Performance of a Team (Hard)
 
-<img width="720" height="480" alt="image" src="" />
+<img width="720"  alt="image" src="https://github.com/user-attachments/assets/cd0d5763-5606-4250-aaf2-733e690f3cf3" />
+
+<img width="720"  alt="image" src="https://github.com/user-attachments/assets/0b9882e1-94b3-4bd4-a06e-e26c8d3ad077" />
+
 
 
 
