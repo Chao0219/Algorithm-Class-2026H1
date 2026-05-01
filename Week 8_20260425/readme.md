@@ -22,6 +22,8 @@
 
 ## 630. Course Schedule III (Hard)
 
-<img width="720"  alt="image" src="" />
+<img width="720"  alt="image" src="https://github.com/user-attachments/assets/6e930bc3-b206-43a2-b5a4-ca0cdd60bdfa" />
 
-<img width="720"  alt="image" src="" />
+
+<img width="720" alt="image" src="https://github.com/user-attachments/assets/ebfd8588-4455-44d2-a288-89d89500c7d6" />
+
