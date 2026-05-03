@@ -26,7 +26,7 @@
 
 ## 2366. Minimum Replacements to Sort the Array (Hard)
 
-<img width="720"  alt="image" src="" />
+<img width="720"  alt="image" src="https://github.com/user-attachments/assets/aa00a08e-ccb9-4653-ae01-f39d24b936ab" />
 
+<img width="720"  alt="image" src="https://github.com/user-attachments/assets/5424d8f6-6d0c-4c81-9c2e-0f0f9ac181fd" />
 
-<img width="720" alt="image" src="" />
