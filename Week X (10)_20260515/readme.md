@@ -14,7 +14,9 @@
 
 ## 410. Split Array Largest Sum (Hard)
 
-<img width="720"  alt="image" src= />
+<img width="720" alt="image" src="https://github.com/user-attachments/assets/3f94469a-a506-4cce-a9f8-5054e74884d8" />
+
+<img width="720" alt="image" src="https://github.com/user-attachments/assets/b8776f89-44cd-443e-9ae5-51f7db0aa098" />
 
 
 
