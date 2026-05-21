@@ -20,8 +20,6 @@
 
 
 
-<img width="720"  alt="image" src=" />
-
 
 
 
