@@ -13,14 +13,11 @@
 
 
 
-## 410. Split Array Largest Sum (Hard)
+## 403. Frog Jump (Hard)
 
-<img width="720"  alt="image" src= />
+<img width="720"  alt="image" src="https://github.com/user-attachments/assets/6e9d016c-fe44-4dc1-bd73-599b8cbafae5" />
 
-
-
-<img width="720"  alt="image" src=" />
-
+<img width="720" alt="image" src="https://github.com/user-attachments/assets/d0284b27-6e02-41fb-9461-978e86dd273d" />
 
 
 
