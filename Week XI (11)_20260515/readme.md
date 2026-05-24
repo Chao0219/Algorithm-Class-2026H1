@@ -25,6 +25,8 @@
 
 ## 330. Patching Array (Hard)
 
-<img width="720"  alt="image" src= />
+<img width="720" alt="image" src="https://github.com/user-attachments/assets/c3e9f5ed-5b1e-45ac-a1d2-ca429397c2c4" />
 
-<img width="720"  alt="image" src= />
+
+<img width="720" alt="image" src="https://github.com/user-attachments/assets/1fecc79b-233c-4322-aa54-d029eb6c0423" />
+
