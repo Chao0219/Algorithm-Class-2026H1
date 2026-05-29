@@ -10,3 +10,5 @@
 
 
 ## 664. Strange Printer (Hard)
+<img width="720" alt="image" src="https://github.com/user-attachments/assets/bf91dd26-3c70-4a42-984b-c01ccda7b1c5" />
+<img width="720" alt="image" src="https://github.com/user-attachments/assets/0327ae5e-8747-4fb8-a4a8-7678d113c784" />
